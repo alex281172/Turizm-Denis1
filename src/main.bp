@@ -1,0 +1,71 @@
+{
+  "positions" : [ {
+    "id" : "/Welcome",
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/CatchAll",
+    "x" : 0,
+    "y" : 894
+  }, {
+    "id" : "/Name/AskName",
+    "x" : 0,
+    "y" : 1338
+  }, {
+    "id" : "/Name/ConfirmName",
+    "x" : 0,
+    "y" : 1652
+  }, {
+    "id" : "/Service/SuggestHelp",
+    "x" : 0,
+    "y" : 1894
+  }, {
+    "id" : "/Weather/WeatherQust",
+    "x" : 0,
+    "y" : 2483
+  }, {
+    "id" : "/Weather/WeatherInTheCity",
+    "x" : 0,
+    "y" : 2775
+  }, {
+    "id" : "/Weather/WeatherInTheCountry",
+    "x" : 0,
+    "y" : 3578
+  }, {
+    "id" : "/Weather/WeatherOfCity",
+    "x" : 0,
+    "y" : 4381
+  }, {
+    "id" : "/Weather/WeatherOfCountry",
+    "x" : 0,
+    "y" : 5062
+  }, {
+    "id" : "/Weather/AreYouSure",
+    "x" : 0,
+    "y" : 5743
+  }, {
+    "id" : "/Trip/TripStartPoint",
+    "x" : 0,
+    "y" : 6083
+  }, {
+    "id" : "/Trip/ReturnDate",
+    "x" : 0,
+    "y" : 6397
+  }, {
+    "id" : "/FullData/Screen",
+    "x" : 0,
+    "y" : 6709
+  }, {
+    "id" : "/Phone/Ask",
+    "x" : 0,
+    "y" : 7209
+  }, {
+    "id" : "/Phone/Confirm",
+    "x" : 0,
+    "y" : 7449
+  }, {
+    "id" : "/SendMail/Mail",
+    "x" : 0,
+    "y" : 7691
+  } ]
+}

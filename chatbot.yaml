@@ -1,0 +1,26 @@
+name: densWeatherTravelBot
+
+entryPoint: main.sc
+
+botEngine: v2
+language: ru
+
+sts:
+    noMatchThreshold: 0.2
+    
+tests:
+    exclude:
+        - test.xml
+
+injector:
+  botName: Жюстин
+  weatherApiKey: bd519a9c3358475836a98ca4664d3000
+
+
+  smtp:
+    host: smtp.gmail.com                  # хост SMTP-сервера
+    port: 465                              # порт SMTP-сервера
+    from: spbdens44@gmail.com          # отправитель
+    user: spbdens44@gmail.com                  # пользователь SMTP-сервера
+    password: rlfgbfdttyqvmfly                   # пароль SMTP-сервера
+    
